@@ -1,3 +1,7 @@
-# Headline
+# CSS
 
-> An awesome project.
+CSS (Cascading Style Sheets) 是一种用于描述网页或应用程序外观和样式的语言。它与HTML (Hypertext Markup Language) 和 JavaScript 一起被用于创建 Web 页面和应用程序。CSS 可以通过将样式信息与 HTML 文档分离来提高页面的可维护性和可重用性，同时也可以使得更改某个样式变得容易，而不需要修改所有的 HTML 页面。
+
+使用 CSS，您可以控制文本的颜色、字体、大小和间距，调整图像的大小和位置，设置背景颜色和图片，以及设计各种形式的用户界面元素，例如按钮、导航菜单和表格。CSS 使用选择器来指定要应用样式的 HTML 元素，然后使用属性和值来设置这些元素的样式。
+
+希望你接下来的学习之旅顺利～

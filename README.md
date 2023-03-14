@@ -7,7 +7,7 @@
 
 ## 前端学习路径
 
-![前端 RoadMap](./images/frontend-roadmap.png)
+![前端 RoadMap](./docs/_media/frontend-roadmap.png)
 
 Reference: https://roadmap.sh/frontend
 
