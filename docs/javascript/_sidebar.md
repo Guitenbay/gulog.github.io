@@ -10,5 +10,7 @@
 * [6.箭头函数](javascript/6.%E7%AE%AD%E5%A4%B4%E5%87%BD%E6%95%B0.md "6.箭头函数")
 * [7.fetch API](javascript/7.fetch%20API.md "7.fetch API")
 * [8.DOM操作](javascript/8.DOM%E6%93%8D%E4%BD%9C.md "8.DOM操作")
+* [9.变量作用域与函数闭包](javascript/9.%E5%8F%98%E9%87%8F%E4%BD%9C%E7%94%A8%E5%9F%9F%E4%B8%8E%E5%87%BD%E6%95%B0%E9%97%AD%E5%8C%85.md "9.变量作用域与函数闭包")
+* [10.立即执行函数](javascript/10.%E7%AB%8B%E5%8D%B3%E6%89%A7%E8%A1%8C%E5%87%BD%E6%95%B0.md "10.立即执行函数")
 
 
